@@ -1,0 +1,14 @@
+.snake-dot {
+  background-color: var(--lcd-px);
+  border-radius: 0;
+  box-shadow: none;
+  transition: none;
+  margin: 1px;
+}
+
+.snake-dot.head {
+  background-color: var(--lcd-px);
+  box-shadow: none;
+  z-index: 10;
+  border-radius: 0;
+}

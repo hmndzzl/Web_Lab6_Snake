@@ -7,6 +7,14 @@ Este proyecto es una recreación del clásico juego "Snake", inspirado en la ic�
 
 El juego cumple con todos los requisitos técnicos esperados: emplea `useState` y `useEffect` de manera óptima para el manejo del estado (movimiento, crecimiento, puntuación, detección de colisiones e inputs de teclado) y el ciclo de juego (game loop). Todo el flujo de datos se maneja a través de *props* entre componentes funcionales aislados, sin requerir variables globales ni manipular manualmente el DOM.
 
+---
+<img width="377" height="499" alt="image" src="https://github.com/user-attachments/assets/96ab0f40-4fb7-48ab-8cf2-067360564230" />
+
+<img width="376" height="512" alt="image" src="https://github.com/user-attachments/assets/e7410d21-c8f8-45eb-a2b6-bb6f4b0ee659" />
+
+<img width="528" height="536" alt="image" src="https://github.com/user-attachments/assets/9167a512-d3d1-427f-839c-41a001a14a28" />
+
+
 ## Instrucciones para instalar y correr el proyecto
 
 Para poder ejecutar este proyecto en tu entorno local, necesitas tener [Node.js](https://nodejs.org/) instalado. Sigue estos pasos en tu terminal:
@@ -36,11 +44,5 @@ Para poder ejecutar este proyecto en tu entorno local, necesitas tener [Node.js]
    - **Jugar de Nuevo:** Reinicia la partida inmediatamente utilizando la misma dificultad.
    - **Volver al Menú:** Te regresa al menú de inicio para que puedas cambiar la dificultad de tu próxima partida.
   
-## Imágenes:
-<img width="377" height="499" alt="image" src="https://github.com/user-attachments/assets/96ab0f40-4fb7-48ab-8cf2-067360564230" />
-
-<img width="376" height="512" alt="image" src="https://github.com/user-attachments/assets/e7410d21-c8f8-45eb-a2b6-bb6f4b0ee659" />
-
-<img width="528" height="536" alt="image" src="https://github.com/user-attachments/assets/9167a512-d3d1-427f-839c-41a001a14a28" />
 
 

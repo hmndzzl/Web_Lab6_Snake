@@ -1,0 +1,61 @@
+.start-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  animation: none;
+}
+
+.start-screen .title {
+  font-size: 4rem;
+  margin: 0;
+  background: none;
+  color: var(--lcd-px);
+  -webkit-text-fill-color: var(--lcd-px);
+  filter: none;
+}
+
+.start-screen .subtitle {
+  font-size: 1.2rem;
+  color: var(--lcd-px);
+  margin: 0 0 10px 0;
+}
+
+.difficulty-selector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: 10px;
+}
+
+.difficulty-selector p {
+  color: var(--lcd-px);
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.diff-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.diff-btn {
+  border: 3px solid var(--lcd-px);
+  background: transparent;
+  color: var(--lcd-px);
+  padding: 4px 8px;
+  font-size: 1.2rem;
+  border-radius: 0;
+}
+
+.diff-btn:hover, .diff-btn.active {
+  background: var(--lcd-px);
+  color: var(--lcd-bg);
+  box-shadow: none;
+}
+
+.start-btn {
+  margin-top: 15px;
+  width: 100%;
+}

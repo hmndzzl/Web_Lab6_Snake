@@ -35,3 +35,12 @@ Para poder ejecutar este proyecto en tu entorno local, necesitas tener [Node.js]
 5. **Fin de la Partida:** Tras perder, aparecerá una pantalla de *Game Over* mostrando tu Puntuación Final y la Dificultad jugada. Desde aquí tienes dos opciones:
    - **Jugar de Nuevo:** Reinicia la partida inmediatamente utilizando la misma dificultad.
    - **Volver al Menú:** Te regresa al menú de inicio para que puedas cambiar la dificultad de tu próxima partida.
+  
+## Imágenes:
+<img width="377" height="499" alt="image" src="https://github.com/user-attachments/assets/96ab0f40-4fb7-48ab-8cf2-067360564230" />
+
+<img width="376" height="512" alt="image" src="https://github.com/user-attachments/assets/e7410d21-c8f8-45eb-a2b6-bb6f4b0ee659" />
+
+<img width="528" height="536" alt="image" src="https://github.com/user-attachments/assets/9167a512-d3d1-427f-839c-41a001a14a28" />
+
+

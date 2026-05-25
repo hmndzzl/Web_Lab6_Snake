@@ -17,6 +17,12 @@ El juego cumple con todos los requisitos técnicos esperados: emplea `useState` 
 
 ## Instrucciones para instalar y correr el proyecto
 
+## Clonar Repositorio
+'''bash
+git clone https://github.com/hmndzzl/Web_Lab6_Snake.git
+cd Web_Lab6_Snake/snake-game
+'''
+
 Para poder ejecutar este proyecto en tu entorno local, necesitas tener [Node.js](https://nodejs.org/) instalado. Sigue estos pasos en tu terminal:
 
 1. Asegúrate de estar en el directorio raíz del repositorio clonado.
@@ -33,6 +39,21 @@ Para poder ejecutar este proyecto en tu entorno local, necesitas tener [Node.js]
    npm run dev
    ```
 5. Abre tu navegador web y dirígete a la dirección proporcionada por la terminal (normalmente es `http://localhost:5173`).
+
+## Instrucciones para ejecutar con Docker (Local)
+
+Si prefieres aislar el entorno o desplegarlo fácilmente en un servidor, puedes usar Docker. El proyecto ya cuenta con su propio `Dockerfile` y `docker-compose.yml`.
+
+1. Asegúrate de tener [Docker](https://docs.docker.com/get-docker/) instalado.
+2. Navega a la carpeta del juego:
+   ```bash
+   cd snake-game
+   ```
+3. Construye y levanta el contenedor en segundo plano:
+   ```bash
+   docker compose up -d --build
+   ```
+4. Abre tu navegador web y dirígete a `http://localhost:8080`.
 
 ## Instrucciones para jugar
 

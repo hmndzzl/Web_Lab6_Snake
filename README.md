@@ -14,6 +14,8 @@ El juego cumple con todos los requisitos técnicos esperados: emplea `useState` 
 
 <img width="528" height="536" alt="image" src="https://github.com/user-attachments/assets/9167a512-d3d1-427f-839c-41a001a14a28" />
 
+Link del juego: http://35.255.29.219:3003/
+
 
 ## Instrucciones para instalar y correr el proyecto
 

@@ -18,10 +18,10 @@ El juego cumple con todos los requisitos técnicos esperados: emplea `useState` 
 ## Instrucciones para instalar y correr el proyecto
 
 ## Clonar Repositorio
-'''bash
+```bash
 git clone https://github.com/hmndzzl/Web_Lab6_Snake.git
 cd Web_Lab6_Snake/snake-game
-'''
+```
 
 Para poder ejecutar este proyecto en tu entorno local, necesitas tener [Node.js](https://nodejs.org/) instalado. Sigue estos pasos en tu terminal:
 
